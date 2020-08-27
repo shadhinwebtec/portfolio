@@ -1,0 +1,105 @@
+body {
+	background-color: #f0f0f5;
+	color: #555;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: auto;
+}
+#top-header {
+	background-color: #66e0ff;
+	color:#000000;
+}
+#links {
+    background-color: #ffccff;
+    
+}
+#links a {
+	color:#000000;
+    text-align: right;
+    font:Arial;
+}
+#links li {
+	display: inline;
+}
+
+img {
+
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#about-box {
+	float: left;
+	width: 30%;
+	box-sizing: border-box;
+	margin-top: 15px;
+	border: 2px grey solid;
+    border-radius: 3px;
+    background-color:#f0f0f5;
+	}
+#projects {
+	float: left;
+    width: 30%;
+    box-sizing: border-box;
+    margin-top: 15px;
+    border: 2px grey solid;
+    border-radius:3px;
+    background-color:#f0f0f5;
+    }
+    
+#skill {
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+    margin-top: 15px;
+    border: 2px grey solid;
+	
+    border-radius:3px;
+    background-color:#f0f0f5;
+
+}   
+
+#contact {
+
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+    margin-top: 15px;
+    border: 2px grey solid;
+	
+    border-radius:3px;
+    background-color:#f0f0f5;
+}
+#main-footer {
+	text-align: center;
+	padding: 15px;
+	margin-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
